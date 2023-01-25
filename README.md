@@ -30,7 +30,6 @@ What made me fall in love with web development and front-end is the capability t
 ![HTML Logo](/images/html5.svg)
 ![CSS Logo](/images/css3.svg)
 ![Javascript Logo](/images/javascript.svg)
-![Php Logo](/images/php-logo.svg)
 ![Typescript Logo](/images/typescript.svg)
 ![MongoDB Logo](/images/mongodb.svg)
 
