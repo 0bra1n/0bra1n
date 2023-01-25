@@ -52,8 +52,8 @@ What made me fall in love with web development and front-end is the capability t
 ---
 
 <p align="center" > 
-  <i>Thanks for passing by</i><br><br>
-  <i>Feel free to connect with me</i><br><br>
+
+
 <a href="https://instagram.com/ajummapage">
 <code><img alt="My e-mail" width="32" src="./images/instagram.svg" /></code>
 </a>
