@@ -49,12 +49,12 @@ What made me fall in love with web development and front-end is the capability t
 <br>
 <br>
 
----
-
-<p align="center" > 
 
 
-<a href="https://instagram.com/ajummapage">
-<code><img alt="My e-mail" width="32" src="./images/instagram.svg" /></code>
-</a>
-</p>
+
+
+
+
+
+
+
