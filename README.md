@@ -35,14 +35,7 @@ What made me fall in love with web development and front-end is the capability t
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 
