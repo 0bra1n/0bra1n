@@ -1,6 +1,7 @@
-<img src="./images/computer.gif" width="100%"/>
-
 [![](https://visitcount.itsvg.in/api?id=Neutroonate&icon=1&color=7)](https://visitcount.itsvg.in)
+
+
+<img src="./images/computer.gif" width="100%"/>
 
 ## 👨🏻‍💻 About me
 
