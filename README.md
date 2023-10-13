@@ -16,10 +16,6 @@
 
 <br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aileenvangen) 
-
-# 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Neutroonate&theme=nightowl&hide_border=false)<br/>
 
 ---
